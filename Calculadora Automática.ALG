@@ -8,8 +8,8 @@ Var
 
 
     Nome: Caractere // Variável para Interação Com o Usuário //
-    N1, N2: Inteiro // Variável para Números reais //
-    So, Su, Mu, Di: Real // Variável para Resultados //
+    N1, N2: Inteiro // Variável para Valores Inteiros //
+    So, Su, Mu, Di: Real // Variável para Valores Reais //
 
 Inicio
 
